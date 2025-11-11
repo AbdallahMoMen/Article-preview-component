@@ -1,6 +1,6 @@
-# Frontend Mentor - Article preview component
+# Frontend Mentor - Article preview component solution
 
-![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
 
 ## Table of contents
 
