@@ -1,6 +1,6 @@
 # Frontend Mentor - Article preview component
 
-This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz).
+![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
 
 ## Table of contents
 
@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![App Screenshot](https://github.com/AbdallahMoMen/FAQ-Accrdion-Fronend-Mentor/blob/main/preview.png)
+![App Screenshot](https://github.com/AbdallahMoMen/Article-preview-component/blob/main/preview.png)
 
 ### Links
 
-- Solution URL: (https://github.com/AbdallahMoMen/FAQ-Accrdion-Fronend-Mentor/tree/main)
-- Live Site URL:(https://abdallahmomen.github.io/FAQ-Accrdion-Fronend-Mentor/)
+- Solution URL: (https://github.com/AbdallahMoMen/Article-preview-component/tree/main)
+- Live Site URL:(https://abdallahmomen.github.io/Article-preview-component/)
 
 ### Built with
 
